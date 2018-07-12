@@ -17,7 +17,7 @@ This web application is designed to facilitate customer engagement for the small
 
 ## Contributors
 
-  * Nikolas Haug
+  * Nikolas Haug - <https://github.com/nikolas-haug>
   * Barbey Ng - <https://github.com/barbeyng>
   * Mirza <https://github.com/mrhdigital>
 
